@@ -160,6 +160,10 @@
     color: #00FFFF;
   }
 
+a{
+    color: #00FFFF;
+}
+
   @media screen and (max-width: 1366px) and (max-height: 768px) {
 
     section div.container a.instagram {
