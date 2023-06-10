@@ -169,6 +169,9 @@ section div.texto:hover,
 section div.texto2:hover {
   transform: scale(1.2);
 }
+a{
+    color: #00FFFF;
+}
 
 @media screen and (max-width: 1366px) and (max-height: 768px) {
   section div.texto{
